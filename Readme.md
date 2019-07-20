@@ -1,3 +1,5 @@
+Not actively maintained! Use with care.
+
 This repository shows how you can easily store the mapping OSM-Way-ID<->GraphHopper Edge-Id
 
 Usage is then easy:
